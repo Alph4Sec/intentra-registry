@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-03-14T02:12:52.464Z",
+  "generated": "2026-03-23T02:47:35.695Z",
   "sources": [
     "uniswap-universal-router",
     "aave-bgd-labs",
@@ -4612,13 +4612,7 @@
         "tags": [
           "dex"
         ]
-      },
-        "0x0000000000bbf5c5fd284e657f01bd000933c96d": {
-          "name": "ParaSwap Delta V2",
-          "protocol": "paraswap",
-          "tags": [
-            "dex"
-          ]
-        }
       }
     }
+  }
+}
