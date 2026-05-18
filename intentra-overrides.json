@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-11T04:02:38.032Z",
+  "generated": "2026-05-18T04:11:38.302Z",
   "sources": [
     "uniswap-universal-router",
     "aave-bgd-labs",
@@ -4655,6 +4655,30 @@
         ]
       },
       "0xed9031a1300d721cf859ee2ba1f0fb33dc9928a2": {
+        "name": "address",
+        "protocol": "balancer",
+        "tags": [
+          "dex",
+          "amm"
+        ]
+      },
+      "0x04e66e492cc14947138608811eeed0b17224f2b6": {
+        "name": "address",
+        "protocol": "balancer",
+        "tags": [
+          "dex",
+          "amm"
+        ]
+      },
+      "0x3ccd78683effffddc1a16f5553c896ac6d3ab7ff": {
+        "name": "address",
+        "protocol": "balancer",
+        "tags": [
+          "dex",
+          "amm"
+        ]
+      },
+      "0x8d75fa0348fd940c70ea0ee5b4d9f7d3d45dc5cc": {
         "name": "address",
         "protocol": "balancer",
         "tags": [
