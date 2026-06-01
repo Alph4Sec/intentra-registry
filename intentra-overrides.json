@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-25T04:20:27.800Z",
+  "generated": "2026-06-01T04:51:24.080Z",
   "sources": [
     "uniswap-universal-router",
     "aave-bgd-labs",
@@ -72,14 +72,14 @@
           "lending"
         ]
       },
-      "0x8147b99df7672a21809c9093e6f6ce1a60f119bd": {
+      "0x728a138a4823392c2efa55e028d434f526fe03cf": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
           "lending"
         ]
       },
-      "0x6fddde45f777a4e461b0721a578b169b44579623": {
+      "0xff42ce30054dce7dc7c1282a9a497aa58eabce99": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
@@ -2410,35 +2410,35 @@
           "lending"
         ]
       },
-      "0xe66adcf153d0bd67a74e5d23e23f90b4011024ec": {
+      "0x6d414cd0d5eaf8c43200ac0c325a7e2ad83b8be6": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
           "lending"
         ]
       },
-      "0x1fb8f7c906cddd28b42ae6eb76abc04a91188635": {
+      "0x52da0ce88202d1542543598d1e1e27f0d344726a": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
           "lending"
         ]
       },
-      "0x8dc095f287dbebd9e15f75bb3dfbf18389bb8104": {
+      "0x96d5686812e33ab509eccdb38c89d15607b2a413": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
           "lending"
         ]
       },
-      "0x25ed699a052b820d772765e26ed4dd9f0a26f3e5": {
+      "0xd70593841c57cbaa04957cc3eace95708e48853b": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
           "lending"
         ]
       },
-      "0x33654b16a4de97bce05d7dd06803bf1066f3123c": {
+      "0x584c7d8c4cb05304fe5ac7fbc97f20a10fb07564": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
