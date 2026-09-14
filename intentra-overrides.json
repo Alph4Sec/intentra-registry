@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-07T03:57:16.534Z",
+  "generated": "2026-09-14T04:20:48.939Z",
   "sources": [
     "uniswap-universal-router",
     "aave-bgd-labs",
@@ -444,6 +444,13 @@
         ]
       },
       "0xb07e357cc262e92eee03d8b81464d596b258ea7a": {
+        "name": "AaveContract",
+        "protocol": "aave",
+        "tags": [
+          "lending"
+        ]
+      },
+      "0x2a5d51e22a8010701674e0c3d45e9acf7b9c8a62": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
@@ -1914,6 +1921,13 @@
         ]
       },
       "0xa6ab031a4d189b24628ec9eb155f0a0f1a0e55a3": {
+        "name": "AaveContract",
+        "protocol": "aave",
+        "tags": [
+          "lending"
+        ]
+      },
+      "0x476a2d04ab8a7fb93e13ac14f2c077866ff13500": {
         "name": "AaveContract",
         "protocol": "aave",
         "tags": [
