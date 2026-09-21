@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-14T04:20:48.939Z",
+  "generated": "2026-09-21T04:20:31.781Z",
   "sources": [
     "uniswap-universal-router",
     "aave-bgd-labs",
@@ -39,6 +39,13 @@
       },
       "0x4c82d1fbfe28c977cbb58d8c7ff8fcf9f70a2cca": {
         "name": "UniversalRouterV2_1_1",
+        "protocol": "uniswap",
+        "tags": [
+          "router"
+        ]
+      },
+      "0x23617e59a5925b2a4bf75d73ff6711cd0b29de85": {
+        "name": "UniversalRouterV2_1_2",
         "protocol": "uniswap",
         "tags": [
           "router"
